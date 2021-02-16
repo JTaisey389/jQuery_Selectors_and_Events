@@ -1,2 +1,2 @@
-# jQuery_Selectors-_and-_Events
+# jQuery_Selectors_and_Events
 jQuery_Selectors _and _Events
